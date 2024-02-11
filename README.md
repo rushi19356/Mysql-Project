@@ -122,7 +122,7 @@ $VAT$ is added to the $COGS$ and this is what is billed to the customer.
 
 $ total(gross_sales) = VAT + COGS $
 
-$ grossProfit(grossIncome) = total(gross_sales) - COGS $
+$ grossProfit(grossIncome) = total(gross_sales) - COGS $ 
 
 **Gross Margin** is gross profit expressed in percentage of the total(gross profit/revenue)
 
