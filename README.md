@@ -1,5 +1,4 @@
-### Walmart Customer and Sales Analysis Project 
-# Walmart Sales Data Analysis
+# Walmart Customer and Sales Analysis Project 
 
 ## About
 
